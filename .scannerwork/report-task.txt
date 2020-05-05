@@ -1,0 +1,6 @@
+projectKey=TestJava
+serverUrl=http://sonarqube.acoba.com
+serverVersion=8.2.0.32929
+dashboardUrl=http://sonarqube.acoba.com/dashboard?id=TestJava
+ceTaskId=AXHhdt07kMjY53H2sXGf
+ceTaskUrl=http://sonarqube.acoba.com/api/ce/task?id=AXHhdt07kMjY53H2sXGf
