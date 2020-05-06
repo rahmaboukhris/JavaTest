@@ -5,6 +5,7 @@ public class HelloWorld {
         System.out.println("Hello, World");
 		a=k/0;
 	    v=l/0;
+	    v=l/0;
     }
 
 }
