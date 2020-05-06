@@ -6,6 +6,7 @@ public class HelloWorld {
 		a=k/0;
 	    v=l/0;
 	    v=l/0;
+	    k)k/m;
     }
 
 }
