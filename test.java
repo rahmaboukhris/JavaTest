@@ -4,6 +4,7 @@ public class HelloWorld {
         // Prints "Hello, World" to the terminal window.
         System.out.println("Hello, World");
 		a=k/0;
+	    v=l/0;
     }
 
 }
